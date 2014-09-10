@@ -26,6 +26,10 @@ Individual files can be viewed at (using the nbviewer web site):
 
 [Chapter 6 Model OPENM3](http://nbviewer.ipython.org/github/kennt/monetary-economics/blob/master/Chapter%206%20Model%20OPENM3.ipynb)
 
-[Chapter 7 Model BMW](http://nbviewer.ipython.org/github/kennt/monetary-economics/blob/master/Chapter%206%20Model%20OPENM3.ipynb)
+[Chapter 7 Model BMW](http://nbviewer.ipython.org/github/kennt/monetary-economics/blob/master/Chapter%207%20Model%20BMW.ipynb)
 
-[Chapter 7 Model BMWK](http://nbviewer.ipython.org/github/kennt/monetary-economics/blob/master/Chapter%206%20Model%20OPENM3.ipynb)
+[Chapter 7 Model BMWK](http://nbviewer.ipython.org/github/kennt/monetary-economics/blob/master/Chapter%207%20Model%20BMWK.ipynb)
+
+[Chapter 9 Model DIS](http://nbviewer.ipython.org/github/kennt/monetary-economics/blob/master/Chapter%209%20Model%20DIS.ipynb)
+
+[Chapter 9 Model DISINF2](http://nbviewer.ipython.org/github/kennt/monetary-economics/blob/master/Chapter%209%20Model%20DISINF2.ipynb)
