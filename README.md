@@ -6,8 +6,6 @@ This implementation of the models is based on the implementation developed by
 Prof. Gennaro Zezza (http://http://gennaro.zezza.it/software/eviews/gl2006.php)
 The models are specified and solved using the pysolve package.
 
-The models are based on the models
-
 To see all the notebooks, visit
 	http://nbviewer.ipython.org/github/kennt/monetary-economics/tree/master/
 
