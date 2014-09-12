@@ -1,8 +1,10 @@
 monetary-economics
 ==================
 
-Implementation of the models from "Monetary Economics 2e" by Godley and Lavoie, 2012
+The implementation of the models is based on modelsffrom "Monetary Economics 2e" by Godley and Lavoie, 2012
 The models are specified and solved using the pysolve package.
+
+The models are based on the models
 
 To see all the notebooks, visit
 	http://nbviewer.ipython.org/github/kennt/monetary-economics/tree/master/
