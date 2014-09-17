@@ -41,3 +41,7 @@ Individual files can be viewed at (using the nbviewer web site):
 [Chapter 10 Model INSOUT](http://nbviewer.ipython.org/github/kennt/monetary-economics/blob/master/Chapter%2010%20Model%20INSOUT.ipynb)
 
 [Chapter 10 Model INSOUTB](http://nbviewer.ipython.org/github/kennt/monetary-economics/blob/master/Chapter%2010%20Model%20INSOUTB.ipynb)
+
+[Chapter 11 Model GROWTH](http://nbviewer.ipython.org/github/kennt/monetary-economics/blob/master/Chapter%2011%20Model%20GROWTH.ipynb)
+
+[Chapter 11 Model GROWTHB](http://nbviewer.ipython.org/github/kennt/monetary-economics/blob/master/Chapter%2011%20Model%20GROWTHB.ipynb)
