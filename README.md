@@ -45,3 +45,11 @@ Individual files can be viewed at (using the nbviewer web site):
 [Chapter 11 Model GROWTH](http://nbviewer.ipython.org/github/kennt/monetary-economics/blob/master/Chapter%2011%20Model%20GROWTH.ipynb)
 
 [Chapter 11 Model GROWTHB](http://nbviewer.ipython.org/github/kennt/monetary-economics/blob/master/Chapter%2011%20Model%20GROWTHB.ipynb)
+
+[Chapter 12 Model OPENFIX](http://nbviewer.ipython.org/github/kennt/monetary-economics/blob/master/Chapter%2012%20Model%20OPENFIX.ipynb)
+
+[Chapter 12 Model OPENFIXR](http://nbviewer.ipython.org/github/kennt/monetary-economics/blob/master/Chapter%2012%20Model%20OPENFIXR.ipynb)
+
+[Chapter 12 Model OPENFIXG](http://nbviewer.ipython.org/github/kennt/monetary-economics/blob/master/Chapter%2012%20Model%20OPENFIXG.ipynb)
+
+[Chapter 12 Model OPENFLEX](http://nbviewer.ipython.org/github/kennt/monetary-economics/blob/master/Chapter%2012%20Model%20OPENFLEX.ipynb)
