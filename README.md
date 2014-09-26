@@ -10,6 +10,10 @@ The models are specified and solved using the pysolve package.
 To see all the notebooks, visit
 	http://nbviewer.ipython.org/github/kennt/monetary-economics/tree/master/
 
+Also here is an example of an interactive graph
+[Interactive graphs](http://nbviewer.ipython.org/github/kennt/monetary-economics/blob/master/extra/Model%20SIM%20Interactive%20Test.ipynb)
+
+
 Individual files can be viewed at (using the nbviewer web site):
 
 [Chapter 3 Model SIM](http://nbviewer.ipython.org/github/kennt/monetary-economics/blob/master/Chapter%203%20Model%20SIM.ipynb)
